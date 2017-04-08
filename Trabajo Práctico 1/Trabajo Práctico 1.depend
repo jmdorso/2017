@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1473306110 source:f:\trabajo práctico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Dorso.h"
+
+1473305232 source:f:\trabajo práctico 1\dorso.c
+
+1473305232 f:\trabajo práctico 1\dorso.h
+
+1473305232 source:g:\trabajo práctico 1\dorso.c
+
+1473306110 source:g:\trabajo práctico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Dorso.h"
+
+1473305232 g:\trabajo práctico 1\dorso.h
+
