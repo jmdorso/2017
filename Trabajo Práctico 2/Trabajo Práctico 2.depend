@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1461957550 source:d:\facu\progylab1\trabajo práctico 2\dorso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dorso.h"
+
+1461883360 source:d:\facu\progylab1\trabajo práctico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dorso.h"
+
+1461884243 d:\facu\progylab1\trabajo práctico 2\dorso.h
+
+1474584096 source:c:\users\dorso\documents\github\tp_laboratorio_1\trabajo práctico 2\dorso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dorso.h"
+
+1474584076 c:\users\dorso\documents\github\tp_laboratorio_1\trabajo práctico 2\dorso.h
+
+1474583343 source:c:\users\dorso\documents\github\tp_laboratorio_1\trabajo práctico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dorso.h"
+
+1474584096 source:c:\users\dorso\documents\github\tp_programacion-lab1\trabajo práctico 2\dorso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dorso.h"
+
+1474584076 c:\users\dorso\documents\github\tp_programacion-lab1\trabajo práctico 2\dorso.h
+
+1474583343 source:c:\users\dorso\documents\github\tp_programacion-lab1\trabajo práctico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dorso.h"
+
