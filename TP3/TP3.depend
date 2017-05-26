@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1481100363 source:d:\facu\progylab1\tp3\dorso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"dorso.h"
+
+1481096917 d:\facu\progylab1\tp3\dorso.h
+
+1481104872 source:d:\facu\progylab1\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"pelis.h"
+	"dorso.h"
+
+1481099797 d:\facu\progylab1\tp3\pelis.h
+
+1481104278 source:d:\facu\progylab1\tp3\pelis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"pelis.h"
+	"dorso.h"
+
+1481100364 source:f:\tp3\dorso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"dorso.h"
+
+1481096918 f:\tp3\dorso.h
+
+1481106282 source:f:\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"pelis.h"
+	"dorso.h"
+
+1481106356 f:\tp3\pelis.h
+
+1481106342 source:f:\tp3\pelis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"pelis.h"
+	"dorso.h"
+
